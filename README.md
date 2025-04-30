@@ -1,7 +1,6 @@
-# 🎨 Museum Landing Page
+# 🎨 NAMU Museum
 
-## 📝 Project Name  
-**Museum Landing Page** – a responsive and visually appealing one-page website designed to represent an art museum. The purpose of the project is to showcase current exhibitions, promote the gallery, and allow users to subscribe to updates through a clean and user-friendly interface.
+**NAMU Museum Landing Page** – a responsive and visually appealing one-page website designed to represent an art museum. The purpose of the project is to showcase current exhibitions, promote the gallery, and allow users to subscribe to updates through a clean and user-friendly interface.
 
 ## 🔗 Live Preview  
 Expirience the live website: [view the live demo here](https://vadimkudrenko.github.io/museum-namu-landing/)
