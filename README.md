@@ -28,6 +28,4 @@ The layout and styling strictly follow the provided Figma design.
 - **Adaptive Logo**: The logo changes its positioning when scrolling to enhance visual appeal and match the dynamic layout.  
 - **Mobile-Optimized Images**: Images adapt to different screen sizes and are delivered in lighter formats for tablets and mobile devices to improve loading speed.  
 - **Hamburger Menu**: Implemented for better navigation on mobile devices.  
-- **Smooth Scroll**: Internal anchor links smoothly scroll to corresponding sections across the page.  
 - **Interactive Animations**: Unified hover and scroll-based animations across elements (buttons, blocks, images).  
-- **Image Hover Effects**: Pictures in the gallery and exhibitions increase on hover for a more engaging user experience.  
