@@ -37,6 +37,7 @@ Follow these instructions to run the project locally:
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/VadimKudrenko/museum-namu-landing.git
+
 cd museum-namu-landing
 
 # Using VSCode with Live Server:
@@ -48,3 +49,16 @@ open index.html
 # (or double-click the file in your file explorer)
 ```
 
+### 2.Install dependencies:
+```bash
+npm install
+# or
+yarn install
+```
+
+### 3.Run the project locally:
+```bash
+npm start
+# or
+yarn start
+```
