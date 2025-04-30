@@ -1,3 +1,16 @@
-body {
-  margin: 0;
-}
+@import 'utils';
+@import 'fonts';
+@import 'typography';
+@import './main-styles';
+@import './blocks/ticket-btn';
+@import './blocks/main-btn';
+@import './blocks/nav';
+@import './blocks/menu';
+@import './blocks/header';
+@import './blocks/museum';
+@import './blocks/events';
+@import './blocks/gallery';
+@import './blocks/contact-us';
+@import './blocks/email-form';
+@import './blocks/footer';
+@import './blocks/copyright';
