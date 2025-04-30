@@ -29,3 +29,22 @@ The layout and styling strictly follow the provided Figma design.
 - **Mobile-Optimized Images**: Images adapt to different screen sizes and are delivered in lighter formats for tablets and mobile devices to improve loading speed.  
 - **Hamburger Menu**: Implemented for better navigation on mobile devices.  
 - **Interactive Animations**: Unified hover and scroll-based animations across elements (buttons, blocks, images).  
+
+## 🚀 Getting Started
+
+Follow these instructions to run the project locally:
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/VadimKudrenko/museum-namu-landing.git
+cd museum-namu-landing
+
+# Using VSCode with Live Server:
+code .
+# Then click "Go Live"
+
+# Or open manually:
+open index.html
+# (or double-click the file in your file explorer)
+```
+
